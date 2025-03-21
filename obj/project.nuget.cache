@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "+HXnXrpdFrE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jomyj\\Downloads\\SeleniumAutomationLibrary\\SeleniumAutomationLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jomyj\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\jomyj\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jomyj\\.nuget\\packages\\nlog\\5.2.1\\nlog.5.2.1.nupkg.sha512",
+    "C:\\Users\\jomyj\\.nuget\\packages\\selenium.support\\4.10.0\\selenium.support.4.10.0.nupkg.sha512",
+    "C:\\Users\\jomyj\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512",
+    "C:\\Users\\jomyj\\.nuget\\packages\\selenium.webdriver.chromedriver\\114.0.5735.1600\\selenium.webdriver.chromedriver.114.0.5735.1600.nupkg.sha512",
+    "C:\\Users\\jomyj\\.nuget\\packages\\skiasharp\\2.88.4\\skiasharp.2.88.4.nupkg.sha512",
+    "C:\\Users\\jomyj\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.4\\skiasharp.nativeassets.macos.2.88.4.nupkg.sha512",
+    "C:\\Users\\jomyj\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.4\\skiasharp.nativeassets.win32.2.88.4.nupkg.sha512",
+    "C:\\Users\\jomyj\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\jomyj\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\jomyj\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

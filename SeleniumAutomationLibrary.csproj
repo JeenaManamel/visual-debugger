@@ -1,0 +1,27 @@
+
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <NoWarn>NU1903</NoWarn>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <TargetFramework>net6.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>A library to simplify Selenium automation with reusable step execution, validation, and screenshot handling.</Description>
+    <Authors>YourName</Authors>
+    <Company>YourCompany</Company>
+    <Version>1.0.0</Version>
+    <PackageId>SeleniumAutomationLibrary</PackageId>
+  </PropertyGroup>
+  <ItemGroup>
+  <Compile Include="Core\\AutomationHelper.cs" />
+  <Compile Include="Core\\ScreenshotHelper.cs" />
+  <Compile Include="Core\\ResultLogger.cs" />
+  <Compile Include="Models\\TestStepData.cs" />
+  <Compile Include="Extensions\\WebDriverExtensions.cs" />
+  <PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0" />
+  <PackageReference Include="Selenium.WebDriver" Version="4.10.0" />
+  <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="114.0.5735.1600" />
+  <PackageReference Include="Selenium.Support" Version="4.10.0" />
+  <PackageReference Include="SkiaSharp" Version="2.88.4" />
+  <PackageReference Include="NLog" Version="5.2.1" />
+</ItemGroup>
+</Project>

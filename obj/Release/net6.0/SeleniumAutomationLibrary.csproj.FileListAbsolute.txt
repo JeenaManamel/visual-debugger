@@ -1,0 +1,15 @@
+C:\Users\jomyj\Downloads\SeleniumAutomationLibrary\obj\Release\net6.0\SeleniumAutomationLibrary.csproj.AssemblyReference.cache
+C:\Users\jomyj\Downloads\SeleniumAutomationLibrary\obj\Release\net6.0\SeleniumAutomationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomyj\Downloads\SeleniumAutomationLibrary\obj\Release\net6.0\SeleniumAutomationLibrary.AssemblyInfoInputs.cache
+C:\Users\jomyj\Downloads\SeleniumAutomationLibrary\obj\Release\net6.0\SeleniumAutomationLibrary.AssemblyInfo.cs
+C:\Users\jomyj\Downloads\SeleniumAutomationLibrary\obj\Release\net6.0\SeleniumAutomationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jomyj\Downloads\SeleniumAutomationLibrary\bin\Release\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\jomyj\Downloads\SeleniumAutomationLibrary\bin\Release\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\jomyj\Downloads\SeleniumAutomationLibrary\bin\Release\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\jomyj\Downloads\SeleniumAutomationLibrary\bin\Release\net6.0\SeleniumAutomationLibrary.deps.json
+C:\Users\jomyj\Downloads\SeleniumAutomationLibrary\bin\Release\net6.0\SeleniumAutomationLibrary.dll
+C:\Users\jomyj\Downloads\SeleniumAutomationLibrary\bin\Release\net6.0\SeleniumAutomationLibrary.pdb
+C:\Users\jomyj\Downloads\SeleniumAutomationLibrary\obj\Release\net6.0\SeleniumAutomationLibrary.dll
+C:\Users\jomyj\Downloads\SeleniumAutomationLibrary\obj\Release\net6.0\refint\SeleniumAutomationLibrary.dll
+C:\Users\jomyj\Downloads\SeleniumAutomationLibrary\obj\Release\net6.0\SeleniumAutomationLibrary.pdb
+C:\Users\jomyj\Downloads\SeleniumAutomationLibrary\obj\Release\net6.0\ref\SeleniumAutomationLibrary.dll
