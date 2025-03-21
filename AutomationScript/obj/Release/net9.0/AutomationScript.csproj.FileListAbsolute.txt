@@ -1,0 +1,5 @@
+C:\Users\jomyj\SeleniumAutomation\AutomationScript\obj\Release\net9.0\AutomationScript.csproj.AssemblyReference.cache
+C:\Users\jomyj\SeleniumAutomation\AutomationScript\obj\Release\net9.0\AutomationScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomyj\SeleniumAutomation\AutomationScript\obj\Release\net9.0\AutomationScript.AssemblyInfoInputs.cache
+C:\Users\jomyj\SeleniumAutomation\AutomationScript\obj\Release\net9.0\AutomationScript.AssemblyInfo.cs
+C:\Users\jomyj\SeleniumAutomation\AutomationScript\obj\Release\net9.0\AutomationScript.csproj.CoreCompileInputs.cache

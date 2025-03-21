@@ -1,0 +1,169 @@
+{
+  "TestName": "OrderPlacementTest",
+  "StartTime": "2025-03-02T14:17:19.7034217+00:00",
+  "TotalDuration": 12.542071400000001,
+  "Steps": [
+    {
+      "StepName": "Navigate to Login Page",
+      "Timestamp": "2025-03-02T14:16:39.0585572+00:00",
+      "Duration": 0.7090448,
+      "ScreenshotPath": "Results\\Navigate_to_Login_Page.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": [
+        "http://localhost:3000/static/js/bundle.js 7622:33 \u0022Warning: ReactDOM.render is no longer supported in React 18. Use createRoot instead. Until you switch to the new API, your app will behave as if it\u0027s running React 17. Learn more: https://reactjs.org/link/switch-to-createroot\u0022",
+        "http://localhost:3000/static/js/bundle.js 7622:33 \u0022Warning: %s: Support for defaultProps will be removed from function components in a future major release. Use JavaScript default parameters instead.%s\u0022 \u0022LoginPage\u0022 \u0022\\n    at LoginPage (http://localhost:3000/static/js/bundle.js:1087:3)\\n    at RenderedRoute (http://localhost:3000/static/js/bundle.js:51627:3)\\n    at Routes (http://localhost:3000/static/js/bundle.js:52279:3)\\n    at Router (http://localhost:3000/static/js/bundle.js:52226:13)\\n    at BrowserRouter (http://localhost:3000/static/js/bundle.js:54276:3)\\n    at App (http://localhost:3000/static/js/bundle.js:41:74)\u0022"
+      ]
+    },
+    {
+      "StepName": "Enter Email",
+      "Timestamp": "2025-03-02T14:16:41.2042703+00:00",
+      "Duration": 0.142855,
+      "ScreenshotPath": "Results\\Enter_Email.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": []
+    },
+    {
+      "StepName": "Enter Password",
+      "Timestamp": "2025-03-02T14:16:43.30526+00:00",
+      "Duration": 0.0903768,
+      "ScreenshotPath": "Results\\Enter_Password.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": []
+    },
+    {
+      "StepName": "Click Login Button",
+      "Timestamp": "2025-03-02T14:16:45.2934502+00:00",
+      "Duration": 0.1032161,
+      "ScreenshotPath": "Results\\Click_Login_Button.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": []
+    },
+    {
+      "StepName": "Add to Cart",
+      "Timestamp": "2025-03-02T14:16:48.146314+00:00",
+      "Duration": 0.0873287,
+      "ScreenshotPath": "Results\\Add_to_Cart.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": [
+        "http://localhost:3000/static/js/bundle.js 34094:33 \u0022Warning: Each child in a list should have a unique \\\u0022key\\\u0022 prop.%s%s See https://reactjs.org/link/warning-keys for more information.%s\u0022 \u0022\\n\\nCheck the render method of \u0060HomePage\u0060.\u0022 \u0022\u0022 \u0022\\n    at div\\n    at HomePage (http://localhost:3000/static/js/bundle.js:919:3)\\n    at RenderedRoute (http://localhost:3000/static/js/bundle.js:51627:3)\\n    at Routes (http://localhost:3000/static/js/bundle.js:52279:3)\\n    at Router (http://localhost:3000/static/js/bundle.js:52226:13)\\n    at BrowserRouter (http://localhost:3000/static/js/bundle.js:54276:3)\\n    at App (http://localhost:3000/static/js/bundle.js:41:74)\u0022"
+      ]
+    },
+    {
+      "StepName": "Navigate to Cart",
+      "Timestamp": "2025-03-02T14:16:49.9611424+00:00",
+      "Duration": 0.108338,
+      "ScreenshotPath": "Results\\Navigate_to_Cart.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": [
+        "http://localhost:3000/static/js/bundle.js 34094:33 \u0022Warning: Each child in a list should have a unique \\\u0022key\\\u0022 prop.%s%s See https://reactjs.org/link/warning-keys for more information.%s\u0022 \u0022\\n\\nCheck the render method of \u0060CartPage\u0060.\u0022 \u0022\u0022 \u0022\\n    at div\\n    at CartPage (http://localhost:3000/static/js/bundle.js:472:3)\\n    at RenderedRoute (http://localhost:3000/static/js/bundle.js:51627:3)\\n    at Routes (http://localhost:3000/static/js/bundle.js:52279:3)\\n    at Router (http://localhost:3000/static/js/bundle.js:52226:13)\\n    at BrowserRouter (http://localhost:3000/static/js/bundle.js:54276:3)\\n    at App (http://localhost:3000/static/js/bundle.js:41:74)\u0022"
+      ]
+    },
+    {
+      "StepName": "Proceed to Checkout",
+      "Timestamp": "2025-03-02T14:16:51.7176144+00:00",
+      "Duration": 0.0848264,
+      "ScreenshotPath": "Results\\Proceed_to_Checkout.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": []
+    },
+    {
+      "StepName": "Enter First Name",
+      "Timestamp": "2025-03-02T14:16:53.4916506+00:00",
+      "Duration": 0.0850247,
+      "ScreenshotPath": "Results\\Enter_First_Name.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": []
+    },
+    {
+      "StepName": "Enter Last Name",
+      "Timestamp": "2025-03-02T14:16:55.2411847+00:00",
+      "Duration": 0.0850094,
+      "ScreenshotPath": "Results\\Enter_Last_Name.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": []
+    },
+    {
+      "StepName": "Enter Email",
+      "Timestamp": "2025-03-02T14:16:57.0066417+00:00",
+      "Duration": 0.0954467,
+      "ScreenshotPath": "Results\\Enter_Email.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": []
+    },
+    {
+      "StepName": "Enter Company Name",
+      "Timestamp": "2025-03-02T14:16:58.7708181+00:00",
+      "Duration": 0.0936778,
+      "ScreenshotPath": "Results\\Enter_Company_Name.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": []
+    },
+    {
+      "StepName": "Enter Address",
+      "Timestamp": "2025-03-02T14:17:00.5529293+00:00",
+      "Duration": 0.1134077,
+      "ScreenshotPath": "Results\\Enter_Address.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": []
+    },
+    {
+      "StepName": "Select Delivery Option",
+      "Timestamp": "2025-03-02T14:17:02.3496065+00:00",
+      "Duration": 0.1007437,
+      "ScreenshotPath": "Results\\Select_Delivery_Option.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": []
+    },
+    {
+      "StepName": "Choose Store Pickup",
+      "Timestamp": "2025-03-02T14:17:04.0876802+00:00",
+      "Duration": 0.0489083,
+      "ScreenshotPath": "Results\\Choose_Store_Pickup.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": []
+    },
+    {
+      "StepName": "Select Payment Method",
+      "Timestamp": "2025-03-02T14:17:05.8704915+00:00",
+      "Duration": 0.095834,
+      "ScreenshotPath": "Results\\Select_Payment_Method.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": []
+    },
+    {
+      "StepName": "Choose Cash on Delivery",
+      "Timestamp": "2025-03-02T14:17:07.5819466+00:00",
+      "Duration": 0.0429287,
+      "ScreenshotPath": "Results\\Choose_Cash_on_Delivery.png",
+      "Status": "Success",
+      "ErrorMessage": null,
+      "ConsoleErrors": []
+    },
+    {
+      "StepName": "Click Place Order",
+      "Timestamp": "2025-03-02T14:17:19.7024843+00:00",
+      "Duration": 10.4551046,
+      "ScreenshotPath": "Results\\Click_Place_Order_Error.png",
+      "Status": "Failed",
+      "ErrorMessage": "Timed out after 10 seconds (Line: 149)",
+      "ConsoleErrors": []
+    }
+  ],
+  "OverallStatus": "Failed",
+  "ErrorMessage": "Timed out after 10 seconds"
+}
