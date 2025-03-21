@@ -1,0 +1,9 @@
+Error: Timed out after 10 seconds
+Context: Error in Checkout Process
+Source: Program.cs
+Line: at Program.Main() in C:\Users\jomyj\SeleniumAutomation\MyConsoleAppfinal\MyConsoleApp\web\Program.cs:line 45
+StackTrace:
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at Program.Main() in C:\Users\jomyj\SeleniumAutomation\MyConsoleAppfinal\MyConsoleApp\web\Program.cs:line 45

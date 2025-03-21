@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RzMG6ZvNlKs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jomyj\\SeleniumAutomation\\MyConsoleAppfinal\\MyConsoleApp\\MyConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jomyj\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\jomyj\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512",
+    "C:\\Users\\jomyj\\.nuget\\packages\\selenium.webdriver.chromedriver\\132.0.6834.15900\\selenium.webdriver.chromedriver.132.0.6834.15900.nupkg.sha512"
+  ],
+  "logs": []
+}

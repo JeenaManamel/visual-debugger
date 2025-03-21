@@ -1,0 +1,9 @@
+[
+  {
+    "Message": "Timed out after 10 seconds",
+    "Context": "Error in Checkout Process",
+    "SourceFile": "Program.cs",
+    "LineNumber": 45,
+    "Tooltip": "An unexpected error occurred. Check logs for more details."
+  }
+]

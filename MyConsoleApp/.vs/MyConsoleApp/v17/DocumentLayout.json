@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jomyj\\SeleniumAutomation\\MyConsoleAppfinal\\MyConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{599A89D5-56D4-4698-8520-BB4BB3EEAC61}|MyConsoleApp.csproj|c:\\users\\jomyj\\seleniumautomation\\myconsoleappfinal\\myconsoleapp\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599A89D5-56D4-4698-8520-BB4BB3EEAC61}|MyConsoleApp.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599A89D5-56D4-4698-8520-BB4BB3EEAC61}|MyConsoleApp.csproj|c:\\users\\jomyj\\seleniumautomation\\myconsoleappfinal\\myconsoleapp\\errorhighlighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599A89D5-56D4-4698-8520-BB4BB3EEAC61}|MyConsoleApp.csproj|solutionrelative:errorhighlighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599A89D5-56D4-4698-8520-BB4BB3EEAC61}|MyConsoleApp.csproj|c:\\users\\jomyj\\seleniumautomation\\myconsoleappfinal\\myconsoleapp\\errorlogs\\errorlog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{599A89D5-56D4-4698-8520-BB4BB3EEAC61}|MyConsoleApp.csproj|solutionrelative:errorlogs\\errorlog.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599A89D5-56D4-4698-8520-BB4BB3EEAC61}|MyConsoleApp.csproj|c:\\users\\jomyj\\seleniumautomation\\myconsoleappfinal\\myconsoleapp\\web\\editor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{599A89D5-56D4-4698-8520-BB4BB3EEAC61}|MyConsoleApp.csproj|solutionrelative:web\\editor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599A89D5-56D4-4698-8520-BB4BB3EEAC61}|MyConsoleApp.csproj|c:\\users\\jomyj\\seleniumautomation\\myconsoleappfinal\\myconsoleapp\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{599A89D5-56D4-4698-8520-BB4BB3EEAC61}|MyConsoleApp.csproj|solutionrelative:server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorHighlighter.cs",
+              "DocumentMoniker": "C:\\Users\\jomyj\\SeleniumAutomation\\MyConsoleAppfinal\\MyConsoleApp\\ErrorHighlighter.cs",
+              "RelativeDocumentMoniker": "ErrorHighlighter.cs",
+              "ToolTip": "C:\\Users\\jomyj\\SeleniumAutomation\\MyConsoleAppfinal\\MyConsoleApp\\ErrorHighlighter.cs",
+              "RelativeToolTip": "ErrorHighlighter.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswLsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:08:48.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorLog.txt",
+              "DocumentMoniker": "C:\\Users\\jomyj\\SeleniumAutomation\\MyConsoleAppfinal\\MyConsoleApp\\ErrorLogs\\ErrorLog.txt",
+              "RelativeDocumentMoniker": "ErrorLogs\\ErrorLog.txt",
+              "ToolTip": "C:\\Users\\jomyj\\SeleniumAutomation\\MyConsoleAppfinal\\MyConsoleApp\\ErrorLogs\\ErrorLog.txt",
+              "RelativeToolTip": "ErrorLogs\\ErrorLog.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-01T17:05:05.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "editor.js",
+              "DocumentMoniker": "C:\\Users\\jomyj\\SeleniumAutomation\\MyConsoleAppfinal\\MyConsoleApp\\web\\editor.js",
+              "RelativeDocumentMoniker": "web\\editor.js",
+              "ToolTip": "C:\\Users\\jomyj\\SeleniumAutomation\\MyConsoleAppfinal\\MyConsoleApp\\web\\editor.js",
+              "RelativeToolTip": "web\\editor.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-01T14:35:27.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jomyj\\SeleniumAutomation\\MyConsoleAppfinal\\MyConsoleApp\\web\\Program.cs",
+              "RelativeDocumentMoniker": "web\\Program.cs",
+              "ToolTip": "C:\\Users\\jomyj\\SeleniumAutomation\\MyConsoleAppfinal\\MyConsoleApp\\web\\Program.cs",
+              "RelativeToolTip": "web\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T14:13:13.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\jomyj\\SeleniumAutomation\\MyConsoleAppfinal\\MyConsoleApp\\server.js",
+              "RelativeDocumentMoniker": "server.js",
+              "ToolTip": "C:\\Users\\jomyj\\SeleniumAutomation\\MyConsoleAppfinal\\MyConsoleApp\\server.js",
+              "RelativeToolTip": "server.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-27T15:33:56.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

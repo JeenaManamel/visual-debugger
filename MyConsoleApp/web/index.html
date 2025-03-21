@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monaco Editor - Error Highlighter</title>
+    <link href="./node_modules/monaco-editor/min/vs/editor/editor.main.css" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div id="container"></div>
+
+    <!-- Load Monaco Editor using require.js -->
+    <script src="./node_modules/monaco-editor/min/vs/loader.js"></script>
+    <script>
+        // Configure Monaco Editor paths
+        require.config({ paths: { 'vs': './node_modules/monaco-editor/min/vs' } });
+
+        // Load Monaco Editor
+        require(['vs/editor/editor.main'], function () {
+            console.log("✅ Monaco Editor Loaded Successfully");
+
+            const editor = monaco.editor.create(document.getElementById('container'), {
+                value: '', // Initially empty, will be filled dynamically
+                language: 'csharp',
+                theme: 'vs-dark',
+                readOnly: false
+            });
+
+            // Load Program.cs into the editor
+            fetch('Program.cs')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Failed to load Program.cs: ${response.statusText}`);
+                    }
+                    return response.text();
+                })
+                .then(content => {
+                    console.log("✅ Program.cs Loaded Successfully");
+                    editor.setValue(content); // Set content in the editor
+                })
+                .catch(err => {
+                    console.error("❌ Error Loading Program.cs:", err);
+                });
+
+            // Fetch error metadata and highlight errors
+            fetch('ErrorMetadata.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Failed to load ErrorMetadata.json: ${response.statusText}`);
+                    }
+                    return response.json();
+                })
+                .then(metadata => {
+                    console.log("✅ Error Metadata Loaded:", metadata);
+
+                    const decorations = metadata.map(error => {
+                        return {
+                            range: new monaco.Range(error.LineNumber, 1, error.LineNumber, 1),
+                            options: {
+                                isWholeLine: true,
+                                className: 'my-error-line',
+                                hoverMessage: { value: `**Error**: ${error.Message}\n💡 ${error.Tooltip}` }
+                            }
+                        };
+                    });
+
+                    // Apply error highlighting
+                    editor.deltaDecorations([], decorations);
+                    console.log("✅ Errors Highlighted in Monaco Editor");
+                })
+                .catch(err => {
+                    console.error("❌ Error Loading ErrorMetadata.json:", err);
+                });
+        });
+    </script>
+</body>
+</html>
